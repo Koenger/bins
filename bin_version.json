@@ -1,0 +1,58 @@
+{
+  "SEQ1000":{
+    "versionBtCode": 202601002,
+    "versionBtName": "SEQ1000_bt_202601002.bin",
+    "downloadBtUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SEQ1000_bt_202601002.bin",
+    "versionSbCode": 202601002,
+    "versionSbName": "SEQ1000_sb_202601002.bin",
+    "downloadSbUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SEQ1000_sb_202601002.bin",
+    "releaseNotes": "立即更新固件，否则可能影响部分功能的正常使用。",
+    "minVersionCode": 0,
+    "size": 0,
+    "forceUpdate": false,
+    "buildTime": "2026-01-21T10:00:00Z",
+    "metadata": ""
+  },
+  "SEQ1001":{
+    "versionBtCode": 202601002,
+    "versionBtName": "SEQ1001_bt_202601002.bin",
+    "downloadBtUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SEQ1001_bt_202601002.bin",
+    "versionSbCode": 202601002,
+    "versionSbName": "SEQ1001_sb_202601002.bin",
+    "downloadSbUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SEQ1001_sb_202601002.bin",
+    "releaseNotes": "立即更新固件，否则可能影响部分功能的正常使用。",
+    "minVersionCode": 0,
+    "size": 0,
+    "forceUpdate": false,
+    "buildTime": "2026-01-21T10:00:00Z",
+    "metadata": ""
+  },
+  "SEQ200":{
+    "versionBtCode": 202601001,
+    "versionBtName": "SEQ200_bt_202601001.bin",
+    "downloadBtUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SEQ200_bt_202601001.bin",
+    "versionSbCode": 202601001,
+    "versionSbName": "SEQ200_sb_202601001.bin",
+    "downloadSbUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SEQ200_sb_202601001.bin",
+    "releaseNotes": "立即更新固件，否则可能影响部分功能的正常使用。",
+    "minVersionCode": 0,
+    "size": 0,
+    "forceUpdate": false,
+    "buildTime": "2026-01-21T10:00:00Z",
+    "metadata": ""
+  },
+  "SAZ150":{
+    "versionBtCode": 202601001,
+    "versionBtName": "SAZ150_bt_202601001.bin",
+    "downloadBtUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SAZ150_bt_202601001.bin",
+    "versionSbCode": 202601001,
+    "versionSbName": "SAZ150_sb_202601001.bin",
+    "downloadSbUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SAZ150_sb_202601001.bin",
+    "releaseNotes": "立即更新固件，否则可能影响部分功能的正常使用。",
+    "minVersionCode": 0,
+    "size": 0,
+    "forceUpdate": false,
+    "buildTime": "2026-01-21T10:00:00Z",
+    "metadata": ""
+  }
+}
