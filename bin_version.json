@@ -1,8 +1,8 @@
 {
   "SEQ1000":{
-    "versionBtCode": 202601002,
-    "versionBtName": "SEQ1000_bt_202601002.bin",
-    "downloadBtUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SEQ1000_bt_202601002.bin",
+    "versionBtCode": 202601003,
+    "versionBtName": "SEQ1000_bt_202601003.bin",
+    "downloadBtUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SEQ1000_bt_202601003.bin",
     "versionSbCode": 202601002,
     "versionSbName": "SEQ1000_sb_202601002.bin",
     "downloadSbUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SEQ1000_sb_202601002.bin",
