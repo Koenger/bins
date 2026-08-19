@@ -42,12 +42,12 @@
     "metadata": ""
   },
   "SAZ150":{
-    "versionBtCode": 202606002,
-    "versionBtName": "SAZ150_bt_202606002.bin",
-    "downloadBtUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SAZ150_bt_202606002.bin",
-    "versionSbCode": 202606001,
-    "versionSbName": "SAZ150_sb_202606001.bin",
-    "downloadSbUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SAZ150_sb_202606001.bin",
+    "versionBtCode": 202608002,
+    "versionBtName": "SAZ150_bt_202608002.bin",
+    "downloadBtUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SAZ150_bt_202608002.bin",
+    "versionSbCode": 202608009,
+    "versionSbName": "SAZ150_sb_202608009.bin",
+    "downloadSbUrl": "https://raw.githubusercontent.com/Koenger/bins/main/SAZ150_sb_202608009.bin",
     "releaseNotes": "立即更新固件，否则可能影响部分功能的正常使用。",
     "minVersionCode": 0,
     "size": 0,
